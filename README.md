@@ -1,3 +1,3 @@
 # veon-demo
-This is a Dmeo Project.
+This is a Demo Project.
 
