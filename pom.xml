@@ -56,9 +56,9 @@
 
 
 	<scm>
-		<connection>scm:git:https://github.com/jawadgilani/scm-demo.git</connection>
-		<developerConnection>scm:git:https://github.com/jawadgilani/scm-demo.git</developerConnection>
-		<url>https://github.com/jawadgilani/scm-demo</url>
+		<connection>scm:git:https://github.com/jawadgilani/scm-file-test.git</connection>
+		<developerConnection>scm:git:https://github.com/jawadgilani/scm-file-test.git</developerConnection>
+		<url>https://github.com/jawadgilani/scm-file-test</url>
 	</scm>
 
 
